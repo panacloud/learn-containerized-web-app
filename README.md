@@ -17,6 +17,7 @@ https://www.ibm.com/cloud/container-service
 https://www.ibm.com/blogs/bluemix/2017/03/kubernetes-now-available-ibm-bluemix-container-service/
 
 AWS (Has recently joined the Cloud Native Foundation, we expect an announcement soon):
+http://techgenix.com/aws-joins-cncf/
 https://aws.amazon.com/ecs/
 https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/
 https://cloudonaut.io/ecs-vs-kubernetes/
