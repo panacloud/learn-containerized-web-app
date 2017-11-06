@@ -1,0 +1,22 @@
+{
+  "name": "step00_helloworld",
+  "version": "1.0.0",
+  "description": "First lets create a Node.js and Express Hello World App:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panacloud/learn-google-container-engine.git"
+  },
+  "author": "Zia Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panacloud/learn-google-container-engine/issues"
+  },
+  "homepage": "https://github.com/panacloud/learn-google-container-engine#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
